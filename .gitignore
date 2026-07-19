@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Private training data and backups
+data/
+data_old/
+data_backup/
+data_rejected/
+
+# MediaPipe downloaded model
+hand_landmarker.task
+
+# Editor settings
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
