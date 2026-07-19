@@ -2,7 +2,7 @@ from pathlib import Path
 
 import numpy as np
 
-SIGN_NAME = "swelling"
+SIGN_NAME = "bleeding"
 
 EXPECTED_SHAPE = (30, 132)
 

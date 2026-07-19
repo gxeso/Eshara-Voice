@@ -1,23 +1,24 @@
-# Virtual environment
+# Environment
 .venv/
-
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
+.vscode/
 
-# Private training data and backups
+# Training data
 data/
 data_old/
 data_backup/
 data_rejected/
 
-# MediaPipe downloaded model
+# Models and MediaPipe assets
+models/
 hand_landmarker.task
 
-# Editor settings
-.vscode/
+# Recordings
+*.mp4
+*.avi
+*.mov
 
-# Operating-system files
+# System files
 .DS_Store
 Thumbs.db

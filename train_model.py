@@ -21,7 +21,9 @@ SIGNS = [
     "emergency",
     "pain",
     "hospital_ward",
-    "swelling"
+    "swelling",
+    "blood_pressure",
+    "bleeding"
 ]
 DATA_DIRECTORY = Path("data")
 MODEL_DIRECTORY = Path("models")

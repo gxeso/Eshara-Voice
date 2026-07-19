@@ -14,7 +14,9 @@ AVAILABLE_SIGNS = [
     "emergency",
     "pain",
     "hospital_ward",
-    "swelling"
+    "swelling",
+    "blood_pressure",
+    "bleeding"
 ]
 
 SEQUENCE_LENGTH = 30

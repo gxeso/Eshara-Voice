@@ -14,7 +14,9 @@ class SpeechController:
             "emergency": "Emergency",
             "pain": "Pain",
             "hospital_ward": "Hospital ward",
-            "swelling":"Swelling"
+            "swelling":"Swelling",
+            "blood_pressure": "Blood Pressure",
+            "bleeding":"Bleeding"
         }
 
         self.speech_queue = queue.Queue()
